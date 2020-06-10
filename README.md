@@ -1,3 +1,4 @@
+\![](./resources/official_armmbed_example_badge.png)
 # Example cellular application for Mbed OS
 
 This is an example based on `mbed-os` cellular APIs that demonstrates a TCP or UDP echo transaction with a public echo server.
@@ -155,4 +156,3 @@ If you have problems to get started with debugging, you can review the [document
 The software is provided under Apache-2.0 license. Contributions to this project are accepted under the same license. Please see [contributing.md](CONTRIBUTING.md) for more info.
 
 This project contains code from other projects. The original license text is included in those source files. They must comply with our license guide.
-
